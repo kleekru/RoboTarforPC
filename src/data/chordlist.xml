@@ -1,0 +1,22 @@
+<chordlist>
+<chord>
+  <chordname>G</chordname>
+  <fingeraddress>6O</fingeraddress>
+  <chordimage>"GChord.png"</chordimage>
+</chord>
+<chord>
+  <chordname>C</chordname>
+  <fingeraddress>5O</fingeraddress>
+  <chordimage>"CChord.png"</chordimage>
+</chord>
+<chord>
+  <chordname>D</chordname>
+  <fingeraddress>4O</fingeraddress>
+  <chordimage>"DChord.png"</chordimage>
+</chord>
+<chord>
+  <chordname>E</chordname>
+  <fingeraddress>52</fingeraddress>
+  <chordimage>"EChord.png"</chordimage>
+</chord>
+</chordlist>

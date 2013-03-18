@@ -1,0 +1,87 @@
+8
+
+dir
+33
+https://l-sb8b90hyn1.americas.gap.com:8443/svn/AndroidApps/RoboTarforPC
+https://l-sb8b90hyn1.americas.gap.com:8443/svn/AndroidApps
+
+
+
+2013-03-06T19:48:32.015625Z
+33
+kleekru
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8fea6367-0351-8f4f-9f7e-0c1b96737238
+
+.classpath
+file
+34
+
+
+
+2013-03-03T19:09:31.265625Z
+168a8a3a9a25f413683c86e3d584ab11
+2013-03-06T19:48:52.796875Z
+34
+kleekru
+
+.project
+file
+34
+
+
+
+2013-02-10T17:06:17.578125Z
+6705efd9aeeb49ae06db33782cbb3111
+2013-03-06T19:48:52.796875Z
+34
+kleekru
+
+src
+dir
+
+res
+dir
+
+forms-1.3.0-src.zip
+file
+34
+
+
+
+2013-03-03T19:09:31.140625Z
+845fc4aa8639a4532b730e0347a4c81a
+2013-03-06T19:48:52.796875Z
+34
+kleekru
+has-props
+
+.settings
+dir
+
+forms-1.3.0.jar
+file
+34
+
+
+
+2013-03-03T19:09:31.031250Z
+9550283af08596307044c9a116e42991
+2013-03-06T19:48:52.796875Z
+34
+kleekru
+has-props
+
